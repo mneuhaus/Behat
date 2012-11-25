@@ -20,7 +20,7 @@
         "symfony/config":                "*",
         "symfony/dependency-injection":  "*",
         "symfony/event-dispatcher":      "*",
-        "symfony/translation":           "+",
+        "symfony/translation":           "*",
         "symfony/yaml":                  "*",
         "symfony/finder":                "*"
     },
